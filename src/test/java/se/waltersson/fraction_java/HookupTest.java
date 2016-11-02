@@ -8,7 +8,7 @@ public class HookupTest {
 
 	@Test
 	public void isThisThingOn() {
-		fail("Not yet implemented");
+		assertFalse(!true);
 	}
 
 }
